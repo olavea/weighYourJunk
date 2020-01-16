@@ -1,0 +1,358 @@
+{
+  "config": {
+    "title": "Forut Sigg",
+    "description": "Reduce garbage production together with your citizens.",
+    "menu": [
+      "Home",
+      "Components"
+    ],
+    "version": "2.0.0-rc.41",
+    "repository": "https://github.com/pedronauck/docz",
+    "native": false,
+    "themeConfig": {},
+    "separator": "-"
+  },
+  "entries": [
+    {
+      "key": "README.md",
+      "value": {
+        "id": "04c6e90faac2675aa89e2176d2eec7d8",
+        "filepath": "README.md",
+        "fullpath": "/Users/olavea/Desktop/Develop/2020_2022_JS_GatsbyJS_Skills/forutSigg_1.0/docz-app-gatsby/README.md",
+        "link": "",
+        "slug": "readme",
+        "route": "/readme",
+        "name": "Readme",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "docz-gatsby-example",
+            "depth": 1,
+            "value": "Docz Gatsby Example"
+          },
+          {
+            "slug": "using-create-docz-app",
+            "depth": 2,
+            "value": "Using  create-docz-app"
+          },
+          {
+            "slug": "download",
+            "depth": 2,
+            "value": "Download"
+          },
+          {
+            "slug": "setup",
+            "depth": 2,
+            "value": "Setup"
+          },
+          {
+            "slug": "start-developing",
+            "depth": 2,
+            "value": "Start developing"
+          },
+          {
+            "slug": "build",
+            "depth": 2,
+            "value": "Build"
+          },
+          {
+            "slug": "serve-built-app",
+            "depth": 2,
+            "value": "Serve built app"
+          }
+        ]
+      }
+    },
+    {
+      "key": "docs/setup.mdx",
+      "value": {
+        "name": "setup",
+        "route": "/setup",
+        "id": "d751e66074a5fd31ca336aa4f8404693",
+        "filepath": "docs/setup.mdx",
+        "fullpath": "/Users/olavea/Desktop/Develop/2020_2022_JS_GatsbyJS_Skills/forutSigg_1.0/docz-app-gatsby/docs/setup.mdx",
+        "link": "",
+        "slug": "docs-setup",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "how-to-use-weighyourjunk",
+            "depth": 2,
+            "value": "How to use weighYourJunk"
+          },
+          {
+            "slug": "1-install-the-",
+            "depth": 3,
+            "value": "1. Install the ..."
+          },
+          {
+            "slug": "2-set-up-",
+            "depth": 3,
+            "value": "2. Set up ..."
+          },
+          {
+            "slug": "3-create-the-",
+            "depth": 3,
+            "value": "3. Create the ..."
+          },
+          {
+            "slug": "4-enjoy-weighyourjunk",
+            "depth": 3,
+            "value": "4. Enjoy weighYourJunk"
+          }
+        ]
+      }
+    },
+    {
+      "key": "src/components/Alert.mdx",
+      "value": {
+        "name": "Alert",
+        "menu": "Components",
+        "id": "411d2842c3d65e6ee7d3ec119ed4c5a0",
+        "filepath": "src/components/Alert.mdx",
+        "fullpath": "/Users/olavea/Desktop/Develop/2020_2022_JS_GatsbyJS_Skills/forutSigg_1.0/docz-app-gatsby/src/components/Alert.mdx",
+        "link": "",
+        "slug": "src-components-alert",
+        "route": "/src-components-alert",
+        "headings": [
+          {
+            "slug": "alert",
+            "depth": 1,
+            "value": "Alert"
+          },
+          {
+            "slug": "properties",
+            "depth": 2,
+            "value": "Properties"
+          },
+          {
+            "slug": "basic-usage",
+            "depth": 2,
+            "value": "Basic usage"
+          },
+          {
+            "slug": "using-different-kinds",
+            "depth": 2,
+            "value": "Using different kinds"
+          }
+        ]
+      }
+    },
+    {
+      "key": "src/components/Button.mdx",
+      "value": {
+        "name": "Button",
+        "menu": "Components",
+        "id": "94c04b4e4bd29ffbdeec8755c1a4c04f",
+        "filepath": "src/components/Button.mdx",
+        "fullpath": "/Users/olavea/Desktop/Develop/2020_2022_JS_GatsbyJS_Skills/forutSigg_1.0/docz-app-gatsby/src/components/Button.mdx",
+        "link": "",
+        "slug": "src-components-button",
+        "route": "/src-components-button",
+        "headings": [
+          {
+            "slug": "button",
+            "depth": 1,
+            "value": "Button"
+          },
+          {
+            "slug": "best-practices",
+            "depth": 3,
+            "value": "Best practices"
+          },
+          {
+            "slug": "properties",
+            "depth": 2,
+            "value": "Properties"
+          },
+          {
+            "slug": "basic-usage",
+            "depth": 2,
+            "value": "Basic usage"
+          },
+          {
+            "slug": "with-different-sizes",
+            "depth": 2,
+            "value": "With different sizes"
+          },
+          {
+            "slug": "with-different-colors",
+            "depth": 2,
+            "value": "With different colors"
+          },
+          {
+            "slug": "outlined",
+            "depth": 2,
+            "value": "Outlined"
+          }
+        ]
+      }
+    },
+    {
+      "key": "src/pages/index.mdx",
+      "value": {
+        "name": "Home",
+        "route": "/",
+        "id": "522b7407e210088f3588b943aec44115",
+        "filepath": "src/pages/index.mdx",
+        "fullpath": "/Users/olavea/Desktop/Develop/2020_2022_JS_GatsbyJS_Skills/forutSigg_1.0/docz-app-gatsby/src/pages/index.mdx",
+        "link": "",
+        "slug": "src-pages-index",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "add-a-weight-scale-to-your-garbage-trucks",
+            "depth": 1,
+            "value": "Add a weight scale to your garbage trucks"
+          },
+          {
+            "slug": "how-weighyourjunk-works",
+            "depth": 1,
+            "value": "How weighYourJunk works"
+          },
+          {
+            "slug": "easy-for-your-junk-truck-driver-easy-for-your-admin",
+            "depth": 1,
+            "value": "Easy for your junk truck driver easy for your admin"
+          },
+          {
+            "slug": "curious-yet",
+            "depth": 1,
+            "value": "Curious yet?"
+          },
+          {
+            "slug": "these-towns-use-weighyourjunk",
+            "depth": 1,
+            "value": "These towns use weighYourJunk"
+          }
+        ]
+      }
+    }
+  ],
+  "props": [
+    {
+      "key": "src/components/Alert.jsx",
+      "value": [
+        {
+          "description": "",
+          "displayName": "Alert",
+          "methods": [],
+          "actualName": "Alert",
+          "props": {
+            "kind": {
+              "type": {
+                "name": "enum",
+                "value": [
+                  {
+                    "value": "'info'",
+                    "computed": false
+                  },
+                  {
+                    "value": "'positive'",
+                    "computed": false
+                  },
+                  {
+                    "value": "'negative'",
+                    "computed": false
+                  },
+                  {
+                    "value": "'warning'",
+                    "computed": false
+                  }
+                ]
+              },
+              "required": false,
+              "description": "`info`, `positive`, `negative`, or `warning`",
+              "defaultValue": {
+                "value": "'info'",
+                "computed": false
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "key": "src/components/Button.jsx",
+      "value": [
+        {
+          "description": "",
+          "displayName": "Button",
+          "methods": [],
+          "actualName": "Button",
+          "props": {
+            "scales": {
+              "type": {
+                "name": "enum",
+                "value": [
+                  {
+                    "value": "'small'",
+                    "computed": false
+                  },
+                  {
+                    "value": "'normal'",
+                    "computed": false
+                  },
+                  {
+                    "value": "'big'",
+                    "computed": false
+                  }
+                ]
+              },
+              "required": false,
+              "description": "",
+              "defaultValue": {
+                "value": "'normal'",
+                "computed": false
+              }
+            },
+            "kind": {
+              "type": {
+                "name": "enum",
+                "value": [
+                  {
+                    "value": "'primary'",
+                    "computed": false
+                  },
+                  {
+                    "value": "'secondary'",
+                    "computed": false
+                  },
+                  {
+                    "value": "'cancel'",
+                    "computed": false
+                  },
+                  {
+                    "value": "'dark'",
+                    "computed": false
+                  },
+                  {
+                    "value": "'gray'",
+                    "computed": false
+                  }
+                ]
+              },
+              "required": false,
+              "description": "",
+              "defaultValue": {
+                "value": "'primary'",
+                "computed": false
+              }
+            },
+            "outline": {
+              "type": {
+                "name": "bool"
+              },
+              "required": false,
+              "description": "",
+              "defaultValue": {
+                "value": "false",
+                "computed": false
+              }
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
